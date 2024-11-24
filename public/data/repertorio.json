@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1201",
+    "titulo": "El Baile De Los Que Sobran",
+    "artista": "Los Prisioneros",
+    "tono": "Do"
+  },
+  {
+    "id": "1202",
+    "titulo": "La Vos de los 80",
+    "artista": "Los Prisioneros",
+    "tono": "Re"
+  },
+  {
+    "id": 1203,
+    "titulo": "Amiga Mia",
+    "artista": "Los Prisioneros",
+    "tono": "Re Mayor"
+  },
+  {
+    "id": 2996,
+    "titulo": "Tren al Sur",
+    "artista": "Los Prisioneros",
+    "tono": "La Mayor"
+  }
+]
